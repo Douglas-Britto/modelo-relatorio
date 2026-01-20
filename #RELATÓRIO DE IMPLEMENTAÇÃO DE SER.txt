@@ -1,0 +1,47 @@
+# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+
+**Data:** 20/01/2026  
+**Empresa:** Abstergo Industries  
+**Responsável:** Dati Express  
+
+---
+
+## Introdução
+
+Este relatório descreve a implementação de serviços da Amazon Web Services (AWS) com foco na redução imediata de custos operacionais, mantendo eficiência, segurança e escalabilidade.
+
+---
+
+## Descrição do Projeto
+
+O projeto foi dividido em três etapas, cada uma utilizando um serviço AWS estratégico.
+
+### Etapa 1
+- Nome da ferramenta: Amazon EC2  
+- Foco da ferramenta: Infraestrutura sob demanda  
+- Descrição de caso de uso: Utilização de instâncias EC2 para eliminar servidores físicos e reduzir custos de manutenção.
+
+### Etapa 2
+- Nome da ferramenta: Amazon S3  
+- Foco da ferramenta: Armazenamento escalável  
+- Descrição de caso de uso: Armazenamento de arquivos e backups com menor custo e alta durabilidade.
+
+### Etapa 3
+- Nome da ferramenta: AWS Cost Explorer  
+- Foco da ferramenta: Controle e otimização de custos  
+- Descrição de caso de uso: Monitoramento detalhado dos gastos para identificar desperdícios e oportunidades de economia.
+
+---
+
+## Conclusão
+
+A adoção dos serviços AWS proporcionou redução de custos operacionais e maior controle financeiro, tornando a infraestrutura mais eficiente e escalável.
+
+---
+
+## Anexos
+
+- https://aws.amazon.com/pt/ec2/
+- https://aws.amazon.com/pt/s3/
+- https://aws.amazon.com/pt/aws-cost-management/aws-cost-explorer/
+- https://docs.aws.amazon.com/pt_br/
